@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: white;
+}
+div div{
+    font-size: 30px;
+}
+
+div > p{
+    color: green;
+}
